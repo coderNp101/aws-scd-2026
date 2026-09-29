@@ -92,7 +92,7 @@ export const team = [
 ];
 
 export const footerContent = {
-  organizedBy: "Organized by AWS Cloud Club IOE Pashchimanchal & AWS Cloud Club Prithvi Narayan Campus.",
+  organizedBy: "Organized by the AWS Student Builder Groups of IOE Pashchimanchal, Pokhara Engineering College, Prithvi Narayan Campus, and Gandaki College of Engineering and Science.",
   quickLinks: [
     ["About", "about"],
     ["Schedule", "schedule"],
@@ -101,11 +101,10 @@ export const footerContent = {
     ["FAQ", "faqs"],
   ],
   coordinators: [
-    { name: "Yojana Ghimire", phone: "+977 9866212789" },
-    { name: "Aayusha Adhikari", phone: "+977 9703322118" },
-    { name: "Savyata Bhurtel", phone: "+977 9846917029" },
+    { name: "Coordinator 1", phone: "Contact details coming soon" },
+    { name: "Coordinator 2", phone: "Contact details coming soon" },
+    { name: "Coordinator 3", phone: "Contact details coming soon" },
   ],
-  designedBy: "Sujal Shrestha",
 };
 
 export const faqs = [
