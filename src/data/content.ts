@@ -30,10 +30,10 @@ export const stats = [
 ];
 
 export const clubs = [
-  { initials: "ASC", name: "AWS Cloud Club — Pokhara", description: "A student-led home for cloud learners, builders, and future architects." },
-  { initials: "PEC", name: "Pokhara Engineering Club", description: "Turning ambitious engineering ideas into practical, community-led projects." },
-  { initials: "CIC", name: "Cloud Innovation Circle", description: "Exploring serverless, AI, security, and the future of cloud-native technology." },
-  { initials: "DSC", name: "Developers Society Pokhara", description: "Connecting the city’s next generation of software creators and open-source leaders." },
+  { initials: "IOE", name: "AWS Student Builder Group: IOE Pashchimanchal", description: "Cloud builders from IOE Pashchimanchal Campus learning, experimenting, and shipping together." },
+  { initials: "PEC", name: "AWS Student Builder Group: PEC", description: "Student builders at Pokhara Engineering College turning cloud ideas into practical projects." },
+  { initials: "PN", name: "AWS Student Builder Group: PN", description: "A hands-on network for learners exploring AWS, software, data, and emerging technology." },
+  { initials: "GCES", name: "AWS Student Builder Group: GCES", description: "Builders at Gandaki College of Engineering and Science growing through shared technical practice." },
 ];
 
 export const pastEvents = [
@@ -43,12 +43,12 @@ export const pastEvents = [
 ];
 
 export const speakers = [
-  { name: "Aarav Shrestha", role: "Principal Cloud Architect · Fintech Labs", talk: "Designing systems that survive the unexpected", bio: "Aarav helps high-growth teams build resilient platforms across South Asia.", position: "0% 0%" },
-  { name: "Nisha Gurung", role: "ML Engineer · Himalayan AI", talk: "From notebook to production: GenAI that works", bio: "Nisha turns ambitious machine-learning research into useful, responsible products.", position: "50% 0%" },
-  { name: "Ritika Karki", role: "Developer Advocate · Cloud Native Nepal", talk: "Serverless without the mystery", bio: "Ritika teaches builders to move fast while keeping architecture simple.", position: "100% 0%" },
-  { name: "Sujan Thapa", role: "Security Lead · SecureStack", talk: "Threat modelling for student builders", bio: "Sujan makes practical cloud security approachable from the first commit.", position: "0% 100%" },
-  { name: "Pragya Bista", role: "Platform Engineer · Yeti Systems", talk: "The developer platform playbook", bio: "Pragya builds paved roads that help engineering teams ship with confidence.", position: "50% 100%" },
-  { name: "Rohan Maharjan", role: "Solutions Architect · DataPeak", talk: "Real-time data from lake to insight", bio: "Rohan designs event-driven data systems for products used at national scale.", position: "100% 100%" },
+  { name: "Person 1", role: "Speaker details coming soon", talk: "Session announcement coming soon", bio: "Speaker profile and session details will be announced soon." },
+  { name: "Person 2", role: "Speaker details coming soon", talk: "Session announcement coming soon", bio: "Speaker profile and session details will be announced soon." },
+  { name: "Person 3", role: "Speaker details coming soon", talk: "Session announcement coming soon", bio: "Speaker profile and session details will be announced soon." },
+  { name: "Person 4", role: "Speaker details coming soon", talk: "Session announcement coming soon", bio: "Speaker profile and session details will be announced soon." },
+  { name: "Person 5", role: "Speaker details coming soon", talk: "Session announcement coming soon", bio: "Speaker profile and session details will be announced soon." },
+  { name: "Person 6", role: "Speaker details coming soon", talk: "Session announcement coming soon", bio: "Speaker profile and session details will be announced soon." },
 ];
 
 export const schedule = [
@@ -73,14 +73,14 @@ export const partnerGroups = [
 ];
 
 export const team = [
-  { name: "Sanjay Poudel", role: "Event Lead", club: "ASC", position: "0% 0%" },
-  { name: "Aashika Rana", role: "Program Lead", club: "PEC", position: "33% 0%" },
-  { name: "Bibek Adhikari", role: "Partnerships", club: "CIC", position: "66% 0%" },
-  { name: "Srijana KC", role: "Community", club: "DSC", position: "100% 0%" },
-  { name: "Roshan Giri", role: "Experience", club: "ASC", position: "0% 100%" },
-  { name: "Samikshya Bhandari", role: "Marketing", club: "PEC", position: "33% 100%" },
-  { name: "Niraj Lamichhane", role: "Technology", club: "CIC", position: "66% 100%" },
-  { name: "Pratima Gurung", role: "Operations", club: "DSC", position: "100% 100%" },
+  { name: "Person 1", role: "Event Lead", club: "IOE Pashchimanchal" },
+  { name: "Person 2", role: "Program Lead", club: "PEC" },
+  { name: "Person 3", role: "Partnerships", club: "PN" },
+  { name: "Person 4", role: "Community", club: "GCES" },
+  { name: "Person 5", role: "Experience", club: "IOE Pashchimanchal" },
+  { name: "Person 6", role: "Marketing", club: "PEC" },
+  { name: "Person 7", role: "Technology", club: "PN" },
+  { name: "Person 8", role: "Operations", club: "GCES" },
 ];
 
 export const faqs = [
