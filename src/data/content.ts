@@ -22,6 +22,14 @@ export const navItems = [
   ["Schedule", "schedule"], ["Partners", "partners"], ["Team", "team"], ["FAQs", "faqs"], ["Contact", "contact"],
 ] as const;
 
+export const socialLinks = {
+  linkedin: "https://www.linkedin.com/",
+  facebook: "https://www.facebook.com/",
+  instagram: "https://www.instagram.com/",
+  github: "https://github.com/",
+  x: "https://x.com/",
+} as const;
+
 export const stats = [
   { value: 500, suffix: "+", label: "Curious builders" },
   { value: 24, suffix: "+", label: "Cloud voices" },
