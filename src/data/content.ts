@@ -4,16 +4,16 @@ export const event = {
   tagline: "Build beyond the clouds.",
   dateLabel: "Saturday, 21 November 2026",
   dateISO: "2026-11-21T09:00:00+05:45",
-  venue: "Pokhara Event Center",
-  address: "Lakeside Road, Pokhara 33700, Nepal",
+  venue: "Ranjit Event Center",
+  address: "Ranjit Event Center, Pokhara, Nepal",
   landmark: "A short walk from Phewa Lake and Hallan Chowk",
   meetupUrl: "https://www.meetup.com/aws-student-community-pokhara/",
   speakerFormUrl: "https://forms.google.com/",
   partnerEmail: "mailto:hello@awsscdpokhara.org?subject=Partnership%20inquiry",
-  directionsUrl: "https://www.google.com/maps/search/?api=1&query=Pokhara+Event+Center+Nepal",
-  email: "hello@awsscdpokhara.org",
-  phone: "+977 980-000-2026",
-  mapEmbedUrl: "https://www.google.com/maps?q=Pokhara,Nepal&output=embed",
+  directionsUrl: "https://www.google.com/maps/search/?api=1&query=Ranjit+Event+Center+Pokhara+Nepal",
+  email: "awscc@ioepas.edu.np",
+  phone: "+977 9866212789",
+  mapEmbedUrl: "https://www.google.com/maps?q=Ranjit+Event+Center,+Pokhara,+Nepal&output=embed",
   speakerDeadline: "30 September 2026",
 };
 
@@ -90,6 +90,23 @@ export const team = [
   { name: "Person 7", role: "Technology", club: "PN" },
   { name: "Person 8", role: "Operations", club: "GCES" },
 ];
+
+export const footerContent = {
+  organizedBy: "Organized by AWS Cloud Club IOE Pashchimanchal & AWS Cloud Club Prithvi Narayan Campus.",
+  quickLinks: [
+    ["About", "about"],
+    ["Schedule", "schedule"],
+    ["Speakers", "speakers"],
+    ["Register", "register"],
+    ["FAQ", "faqs"],
+  ],
+  coordinators: [
+    { name: "Yojana Ghimire", phone: "+977 9866212789" },
+    { name: "Aayusha Adhikari", phone: "+977 9703322118" },
+    { name: "Savyata Bhurtel", phone: "+977 9846917029" },
+  ],
+  designedBy: "Sujal Shrestha",
+};
 
 export const faqs = [
   ["Is the event free?", "Yes. Registration is free, but seats are limited and confirmation is required."],
